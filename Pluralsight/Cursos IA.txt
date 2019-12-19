@@ -1,0 +1,15 @@
+visual studio code
+python 
+
+[?22/?11/?2019 14:11]  Chaves, Bruno Consul Silva:  
+
+
+Understanding Machine Learning
+https://app.pluralsight.com/paths/skills/python - *Apenas o módulo Begginer* 
+https://app.pluralsight.com/paths/skills/python-for-data-analysts - * Todos os módulos * 
+Machine Learning Literacy
+Production Machine Learning Systems
+Designing a Machine Learning Model
+Data Engineering on Google Cloud Platform
+Deep Learning: The Big Picture 
+ 
